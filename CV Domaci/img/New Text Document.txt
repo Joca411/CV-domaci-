@@ -1,0 +1,2 @@
+font 1 zaglavlje Ranelte deco dot bold
+font 2 ostatak sajta armin soft variable 
